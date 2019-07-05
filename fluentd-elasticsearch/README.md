@@ -14,4 +14,6 @@ These images are versioned in the same way as the base image: [fluentd](https://
 
 ## Supported versions
 
-- `v1.1-debian`, `v1-debian`, `latest`
+- `v1.1-debian`
+- `v1.6-debian`, `v1-debian`, `latest`
+
